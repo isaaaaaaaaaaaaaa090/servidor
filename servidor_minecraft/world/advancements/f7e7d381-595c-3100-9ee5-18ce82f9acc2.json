@@ -14,6 +14,7 @@
       "minecraft:taiga": "2025-07-11 18:43:35 +0000",
       "minecraft:deep_ocean": "2025-07-11 19:08:15 +0000",
       "minecraft:deep_cold_ocean": "2025-07-11 19:08:50 +0000",
+      "minecraft:desert": "2025-07-29 19:44:11 +0000",
       "minecraft:ocean": "2025-07-11 19:03:56 +0000",
       "minecraft:jungle": "2025-07-24 02:05:02 +0000",
       "minecraft:cherry_grove": "2025-07-06 02:15:24 +0000",
@@ -26,6 +27,7 @@
       "minecraft:flower_forest": "2025-07-11 18:59:25 +0000",
       "minecraft:beach": "2025-07-05 20:15:43 +0000",
       "minecraft:dark_forest": "2025-07-11 19:00:11 +0000",
+      "minecraft:sparse_jungle": "2025-07-29 19:46:34 +0000",
       "minecraft:river": "2025-07-05 20:15:00 +0000",
       "minecraft:lukewarm_ocean": "2025-07-24 02:04:28 +0000",
       "minecraft:stony_shore": "2025-07-05 18:55:46 +0000",
@@ -297,6 +299,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-07-23 03:09:05 +0000",
+      "mutton": "2025-07-29 20:37:34 +0000",
       "golden_apple": "2025-07-23 03:20:32 +0000",
       "cooked_chicken": "2025-07-23 21:01:45 +0000",
       "potato": "2025-07-05 19:01:13 +0000",
@@ -4054,6 +4057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-28 23:41:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/magenta_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 23:41:47 +0000"
@@ -4066,39 +4075,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-07-28 23:48:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/place_dried_ghast_in_water": {
-    "criteria": {
-      "place_dried_ghast_in_water": "2025-07-28 23:41:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/black_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 23:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-07-29 00:34:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-07-28 23:48:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_ghast": {
-    "criteria": {
-      "has_ghast_tear": "2025-07-28 23:41:42 +0000"
     },
     "done": true
   },
@@ -4108,39 +4087,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-07-29 00:34:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-07-29 00:34:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-28 23:47:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/pink_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 23:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
-    "criteria": {
-      "has_iron_ore": "2025-07-29 00:34:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-07-29 00:34:24 +0000"
     },
     "done": true
   },
@@ -4150,45 +4099,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-07-29 00:34:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-07-29 00:34:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/light_blue_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 23:41:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-28 23:47:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/cyan_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 23:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
     },
     "done": true
   },
@@ -4204,51 +4123,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_red_harness": {
-    "criteria": {
-      "has_needed_dye": "2025-07-28 23:47:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/green_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 23:41:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-07-29 00:34:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/diorite_wall": {
-    "criteria": {
-      "has_diorite": "2025-07-29 00:34:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-07-29 00:34:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-07-29 00:34:24 +0000"
     },
     "done": true
   },
@@ -4264,12 +4141,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/saddle": {
-    "criteria": {
-      "has_leather": "2025-07-28 23:43:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/lime_harness": {
     "criteria": {
       "has_dried_ghast": "2025-07-28 23:41:47 +0000"
@@ -4282,9 +4153,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+  "minecraft:recipes/combat/light_gray_harness": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
+      "has_dried_ghast": "2025-07-28 23:41:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/place_dried_ghast_in_water": {
+    "criteria": {
+      "place_dried_ghast_in_water": "2025-07-28 23:41:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2025-07-28 23:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 23:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 23:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_red_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-07-28 23:47:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-28 23:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-28 23:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-28 23:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-29 00:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-07-29 00:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-07-29 00:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-29 00:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-07-29 00:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-29 00:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-07-29 00:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-29 00:34:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-07-29 00:34:24 +0000"
     },
     "done": true
   },
@@ -4300,21 +4273,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-29 00:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-07-29 00:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-29 00:36:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_bed": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_red_wool": "2025-07-28 23:48:00 +0000"
+      "has_smithing_trim_template": "2025-07-29 19:13:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/light_gray_harness": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
-      "has_dried_ghast": "2025-07-28 23:41:47 +0000"
+      "has_rib_armor_trim_smithing_template": "2025-07-29 19:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_string": "2025-07-29 19:55:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-29 20:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-07-29 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-29 20:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-07-29 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-29 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-29 20:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_wildflowers": {
+    "criteria": {
+      "has_wildflowers": "2025-07-29 20:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-07-29 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-07-29 20:42:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-07-29 20:42:28 +0000"
     },
     "done": true
   },

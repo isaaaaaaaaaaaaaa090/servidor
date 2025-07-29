@@ -1,8 +1,30 @@
-[00:23:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=162, y=127, z=-126} jb{x=162, y=128, z=-125}
-[00:30:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1301, y=-4, z=-1016} jb{x=1298, y=61, z=-1016}
-[01:01:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=180, y=-32, z=-153} jb{x=180, y=-33, z=-152}
-[01:19:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1298, y=63, z=-1015} jb{x=1299, y=58, z=-1015}
-[01:19:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1299, y=63, z=-1019} jb{x=1298, y=58, z=-1019}
-[01:22:12] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[01:22:12] [Server thread/INFO]: isafebrero left the game
-[01:23:12] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:14:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:14:51] [ServerMain/INFO]: Loaded 1407 recipes
+[20:14:51] [ServerMain/INFO]: Loaded 1520 advancements
+[20:14:51] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[20:14:51] [Server thread/INFO]: Loading properties
+[20:14:51] [Server thread/INFO]: Default game type: SURVIVAL
+[20:14:51] [Server thread/INFO]: Generating keypair
+[20:14:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:14:51] [Server thread/INFO]: Using epoll channel type
+[20:14:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:14:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:14:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:14:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:14:51] [Server thread/INFO]: Preparing level "world"
+[20:14:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:14:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:55] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[20:14:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:14:56] [Server thread/INFO]: Time elapsed: 4195 ms
+[20:14:56] [Server thread/INFO]: Done (4.746s)! For help, type "help"
+[20:15:08] [Server thread/INFO]: isafebrero (/172.30.35.230:61481) lost connection: Disconnected
+[20:15:48] [Server thread/INFO]: isafebrero[/172.30.35.230:61523] logged in with entity id 5 at (4883.254372487435, 65.4, -830.1843928809318)
+[20:15:48] [Server thread/INFO]: isafebrero joined the game
+[20:22:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4602, y=64, z=-75} jb{x=4602, y=62, z=-75}
