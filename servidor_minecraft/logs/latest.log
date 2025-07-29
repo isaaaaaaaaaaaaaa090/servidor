@@ -32,3 +32,4 @@
 [21:04:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=32, y=127, z=192} jb{x=48, y=129, z=1160}
 [21:04:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=32, y=127, z=192} jb{x=48, y=129, z=1160}
 [21:15:28] [Server thread/INFO]: isafebrero has completed the challenge [Return to Sender]
+[21:28:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=64, y=127, z=1205} jb{x=65, y=129, z=1162}
