@@ -4346,33 +4346,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_blue_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-07-29 22:39:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-07-29 20:40:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-07-29 20:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
-    "criteria": {
-      "has_emerald_ore": "2025-07-29 20:40:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-07-29 20:42:28 +0000"
     },
     "done": true
   },
@@ -4382,9 +4358,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed": {
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
     "criteria": {
-      "has_blue_wool": "2025-07-29 22:39:36 +0000"
+      "has_emerald_ore": "2025-07-29 20:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-07-29 20:40:06 +0000"
     },
     "done": true
   },
@@ -4394,19 +4376,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-29 20:42:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_rabbit": {
     "criteria": {
       "has_rabbit": "2025-07-29 20:42:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
     "criteria": {
-      "has_blue_wool": "2025-07-29 22:39:36 +0000"
+      "has_rabbit": "2025-07-29 20:42:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
     "criteria": {
       "has_rabbit": "2025-07-29 20:42:28 +0000"
     },
@@ -4418,9 +4406,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+  "minecraft:recipes/decorations/dye_blue_carpet": {
     "criteria": {
-      "has_rabbit": "2025-07-29 20:42:28 +0000"
+      "has_needed_dye": "2025-07-29 22:39:33 +0000"
     },
     "done": true
   },
@@ -4430,15 +4418,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_banner": {
+  "minecraft:recipes/combat/dye_blue_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-07-29 22:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2025-07-29 22:39:36 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_blue_harness": {
+  "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
-      "has_needed_dye": "2025-07-29 22:39:33 +0000"
+      "has_blue_wool": "2025-07-29 22:39:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-07-29 22:39:36 +0000"
     },
     "done": true
   },
