@@ -25,3 +25,10 @@
 [01:33:09] [Server thread/INFO]: Done (4.090s)! For help, type "help"
 [01:33:21] [Server thread/INFO]: isafebrero[/172.30.35.230:51391] logged in with entity id 5 at (147.57805737204197, 63.0, -150.94117791084955)
 [01:33:21] [Server thread/INFO]: isafebrero joined the game
+[02:54:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=148, y=55, z=-187} jb{x=148, y=53, z=-187}
+[03:01:48] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[03:01:48] [Server thread/INFO]: isafebrero left the game
+[03:01:55] [Server thread/INFO]: isafebrero[/172.30.35.230:56662] logged in with entity id 30633 at (148.45956683502155, 63.0, -184.97147539517022)
+[03:01:55] [Server thread/INFO]: isafebrero joined the game
+[03:03:56] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[03:03:56] [Server thread/INFO]: isafebrero left the game

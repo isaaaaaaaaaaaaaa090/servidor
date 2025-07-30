@@ -4448,6 +4448,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/dye_magenta_harness": {
+    "criteria": {
+      "has_needed_dye": "2025-07-30 02:21:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_magenta_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-30 02:21:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dye_purple_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-30 02:22:09 +0000"
@@ -4463,18 +4475,6 @@
   "minecraft:recipes/decorations/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-07-30 02:22:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/dye_magenta_harness": {
-    "criteria": {
-      "has_needed_dye": "2025-07-30 02:21:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_magenta_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-07-30 02:21:18 +0000"
     },
     "done": true
   },
