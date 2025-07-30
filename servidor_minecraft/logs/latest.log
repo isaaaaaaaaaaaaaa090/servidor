@@ -24,3 +24,20 @@
 [17:56:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [17:56:33] [Server thread/INFO]: isafebrero[/172.30.35.230:50159] logged in with entity id 8 at (148.38694139609316, 63.0, -172.07358499342737)
 [17:56:33] [Server thread/INFO]: isafebrero joined the game
+[19:29:56] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[19:29:56] [Server thread/INFO]: isafebrero left the game
+[19:30:02] [Server thread/INFO]: isafebrero[/172.30.35.230:56869] logged in with entity id 47565 at (148.1293545530458, 63.0, -183.0157768697835)
+[19:30:02] [Server thread/INFO]: isafebrero joined the game
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
+[19:34:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=150, y=63, z=-156} jb{x=-456, y=36, z=-1}
