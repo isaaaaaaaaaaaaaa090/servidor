@@ -75,3 +75,21 @@
 [04:04:47] [Server thread/INFO]: isafebrero joined the game
 [04:04:50] [Server thread/INFO]: isafebrero lost connection: Disconnected
 [04:04:50] [Server thread/INFO]: isafebrero left the game
+[04:05:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_blue_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_blue_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_blue_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_blue_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_magenta_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_magenta_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
+[04:05:54] [Server thread/INFO]: sebas2011junio[/172.30.35.230:60465] logged in with entity id 59818 at (149.110223833758, 63.0, -111.03758247073364)
+[04:05:54] [Server thread/INFO]: sebas2011junio joined the game
+[04:06:11] [Server thread/INFO]: sebas2011junio lost connection: Disconnected
+[04:06:11] [Server thread/INFO]: sebas2011junio left the game
+[04:07:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[04:08:23] [Server thread/INFO]: isafebrero[/172.30.35.230:60611] logged in with entity id 60387 at (-9459.6548010863, 145.5, 368.2825014593447)
+[04:08:23] [Server thread/INFO]: isafebrero joined the game
