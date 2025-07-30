@@ -1,95 +1,26 @@
-[01:33:03] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:33:05] [ServerMain/INFO]: Loaded 1407 recipes
-[01:33:05] [ServerMain/INFO]: Loaded 1520 advancements
-[01:33:05] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:33:05] [Server thread/INFO]: Loading properties
-[01:33:05] [Server thread/INFO]: Default game type: SURVIVAL
-[01:33:05] [Server thread/INFO]: Generating keypair
-[01:33:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:33:05] [Server thread/INFO]: Using epoll channel type
-[01:33:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:33:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:33:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:33:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:33:05] [Server thread/INFO]: Preparing level "world"
-[01:33:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:33:09] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:33:09] [Server thread/INFO]: Time elapsed: 3613 ms
-[01:33:09] [Server thread/INFO]: Done (4.090s)! For help, type "help"
-[01:33:21] [Server thread/INFO]: isafebrero[/172.30.35.230:51391] logged in with entity id 5 at (147.57805737204197, 63.0, -150.94117791084955)
-[01:33:21] [Server thread/INFO]: isafebrero joined the game
-[02:54:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=148, y=55, z=-187} jb{x=148, y=53, z=-187}
-[03:01:48] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:01:48] [Server thread/INFO]: isafebrero left the game
-[03:01:55] [Server thread/INFO]: isafebrero[/172.30.35.230:56662] logged in with entity id 30633 at (148.45956683502155, 63.0, -184.97147539517022)
-[03:01:55] [Server thread/INFO]: isafebrero joined the game
-[03:03:56] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:03:56] [Server thread/INFO]: isafebrero left the game
-[03:04:02] [Server thread/INFO]: isafebrero[/172.30.35.230:56855] logged in with entity id 31476 at (147.96496719012168, 63.0, -184.2102541242568)
-[03:04:02] [Server thread/INFO]: isafebrero joined the game
-[03:05:01] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:05:01] [Server thread/INFO]: isafebrero left the game
-[03:05:08] [Server thread/INFO]: isafebrero[/172.30.35.230:56923] logged in with entity id 32053 at (142.04137206904431, 63.0, -182.18276505049255)
-[03:05:08] [Server thread/INFO]: isafebrero joined the game
-[03:05:43] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:05:43] [Server thread/INFO]: isafebrero left the game
-[03:05:50] [Server thread/INFO]: isafebrero[/172.30.35.230:56964] logged in with entity id 32501 at (149.4505096208696, 63.5, -186.15221609368163)
-[03:05:50] [Server thread/INFO]: isafebrero joined the game
-[03:10:26] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:10:26] [Server thread/INFO]: isafebrero left the game
-[03:10:32] [Server thread/INFO]: isafebrero[/172.30.35.230:57204] logged in with entity id 33580 at (148.2654618326183, 63.0, -181.17777102504965)
-[03:10:32] [Server thread/INFO]: isafebrero joined the game
-[03:10:53] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:10:53] [Server thread/INFO]: isafebrero left the game
-[03:11:00] [Server thread/INFO]: isafebrero[/172.30.35.230:57238] logged in with entity id 34004 at (148.87744416564675, 63.0, -179.29581642574297)
-[03:11:00] [Server thread/INFO]: isafebrero joined the game
-[03:11:46] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:11:46] [Server thread/INFO]: isafebrero left the game
-[03:11:52] [Server thread/INFO]: isafebrero[/172.30.35.230:57284] logged in with entity id 34929 at (29.71965794887599, 128.0, -32.45456217015387)
-[03:11:52] [Server thread/INFO]: isafebrero joined the game
-[03:12:51] [Server thread/INFO]: isafebrero was slain by Zombified Piglin
-[03:17:54] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:17:54] [Server thread/INFO]: isafebrero left the game
-[03:18:54] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:19:11] [Server thread/INFO]: isafebrero[/172.30.35.230:57667] logged in with entity id 39639 at (22.48750001192093, 99.65319863466615, -21.30000001192093)
-[03:19:11] [Server thread/INFO]: isafebrero joined the game
-[03:21:22] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:21:22] [Server thread/INFO]: isafebrero left the game
-[03:21:28] [Server thread/INFO]: isafebrero[/172.30.35.230:57800] logged in with entity id 41018 at (19.452555664192555, 128.0, -24.074366217945272)
-[03:21:28] [Server thread/INFO]: isafebrero joined the game
-[03:22:39] [Server thread/INFO]: isafebrero fell from a high place
-[03:44:38] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[03:44:38] [Server thread/INFO]: isafebrero left the game
-[03:44:44] [Server thread/INFO]: isafebrero[/172.30.35.230:59305] logged in with entity id 51296 at (-7080.502652072432, 167.0, 2650.2912493210933)
-[03:44:44] [Server thread/INFO]: isafebrero joined the game
-[04:04:40] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[04:04:40] [Server thread/INFO]: isafebrero left the game
-[04:04:47] [Server thread/INFO]: isafebrero[/172.30.35.230:60388] logged in with entity id 59739 at (-9459.6548010863, 145.5, 368.2825014593447)
-[04:04:47] [Server thread/INFO]: isafebrero joined the game
-[04:04:50] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[04:04:50] [Server thread/INFO]: isafebrero left the game
-[04:05:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_white_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_blue_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_blue_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_blue_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_light_blue_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_magenta_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_magenta_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_bed' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/WARN]: Ignored advancement 'minecraft:recipes/building_blocks/dye_red_carpet' in progress file ./world/advancements/0ef9c718-1af5-3d41-812d-246a35313c8b.json - it doesn't exist anymore?
-[04:05:54] [Server thread/INFO]: sebas2011junio[/172.30.35.230:60465] logged in with entity id 59818 at (149.110223833758, 63.0, -111.03758247073364)
-[04:05:54] [Server thread/INFO]: sebas2011junio joined the game
-[04:06:11] [Server thread/INFO]: sebas2011junio lost connection: Disconnected
-[04:06:11] [Server thread/INFO]: sebas2011junio left the game
-[04:07:11] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[04:08:23] [Server thread/INFO]: isafebrero[/172.30.35.230:60611] logged in with entity id 60387 at (-9459.6548010863, 145.5, 368.2825014593447)
-[04:08:23] [Server thread/INFO]: isafebrero joined the game
+[17:55:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:55:16] [ServerMain/INFO]: Loaded 1407 recipes
+[17:55:16] [ServerMain/INFO]: Loaded 1520 advancements
+[17:55:16] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[17:55:16] [Server thread/INFO]: Loading properties
+[17:55:16] [Server thread/INFO]: Default game type: SURVIVAL
+[17:55:16] [Server thread/INFO]: Generating keypair
+[17:55:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:55:16] [Server thread/INFO]: Using epoll channel type
+[17:55:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:55:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:55:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:55:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:55:16] [Server thread/INFO]: Preparing level "world"
+[17:55:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:55:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:55:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:55:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:55:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:55:19] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:55:19] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[17:55:19] [Server thread/INFO]: Time elapsed: 2607 ms
+[17:55:19] [Server thread/INFO]: Done (3.083s)! For help, type "help"
+[17:56:19] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[17:56:33] [Server thread/INFO]: isafebrero[/172.30.35.230:50159] logged in with entity id 8 at (148.38694139609316, 63.0, -172.07358499342737)
+[17:56:33] [Server thread/INFO]: isafebrero joined the game
