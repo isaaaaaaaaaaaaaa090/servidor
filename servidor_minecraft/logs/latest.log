@@ -28,3 +28,8 @@
 [03:56:44] [Server thread/INFO]: isafebrero[/172.30.35.230:49269] logged in with entity id 4 at (439.60644253380235, 244.0, 815.423869621991)
 [03:56:44] [Server thread/INFO]: isafebrero joined the game
 [04:13:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=439, y=244, z=828}
+[04:17:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=404, y=244, z=840}
+[04:17:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=403, y=244, z=843}
+[04:19:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=388, y=244, z=833}
+[04:20:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=383, y=244, z=823}
+[04:21:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=396, y=244, z=814} jb{x=388, y=244, z=809}
