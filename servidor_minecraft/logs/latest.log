@@ -1,43 +1,25 @@
-[03:54:27] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:54:30] [ServerMain/INFO]: Loaded 1407 recipes
-[03:54:30] [ServerMain/INFO]: Loaded 1520 advancements
-[03:54:30] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[03:54:30] [Server thread/INFO]: Loading properties
-[03:54:30] [Server thread/INFO]: Default game type: SURVIVAL
-[03:54:30] [Server thread/INFO]: Generating keypair
-[03:54:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:54:30] [Server thread/INFO]: Using epoll channel type
-[03:54:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:54:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:54:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:54:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:54:30] [Server thread/INFO]: Preparing level "world"
-[03:54:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:54:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:54:34] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[03:54:35] [Server thread/INFO]: Time elapsed: 4426 ms
-[03:54:35] [Server thread/INFO]: Done (4.890s)! For help, type "help"
-[03:55:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[03:56:44] [Server thread/INFO]: isafebrero[/172.30.35.230:49269] logged in with entity id 4 at (439.60644253380235, 244.0, 815.423869621991)
-[03:56:44] [Server thread/INFO]: isafebrero joined the game
-[04:13:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=439, y=244, z=828}
-[04:17:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=404, y=244, z=840}
-[04:17:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=403, y=244, z=843}
-[04:19:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=388, y=244, z=833}
-[04:20:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=383, y=244, z=823}
-[04:21:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=396, y=244, z=814} jb{x=388, y=244, z=809}
-[04:36:12] [Server thread/INFO]: isafebrero discovered the floor was lava
-[04:56:46] [Server thread/INFO]: isafebrero discovered the floor was lava
-[05:12:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=411, y=128, z=806} jb{x=404, y=248, z=846}
-[05:19:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=400, y=249, z=793} jb{x=389, y=248, z=804}
-[05:30:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=401, y=243, z=819} jb{x=413, y=251, z=848}
-[05:34:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=428, y=252, z=786} jb{x=429, y=251, z=836}
-[05:34:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=428, y=252, z=786} jb{x=428, y=251, z=837}
-[05:35:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=425, y=252, z=839} jb{x=425, y=252, z=838}
+[19:29:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:29:40] [ServerMain/INFO]: Loaded 1407 recipes
+[19:29:40] [ServerMain/INFO]: Loaded 1520 advancements
+[19:29:40] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:29:40] [Server thread/INFO]: Loading properties
+[19:29:40] [Server thread/INFO]: Default game type: SURVIVAL
+[19:29:40] [Server thread/INFO]: Generating keypair
+[19:29:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:29:41] [Server thread/INFO]: Using epoll channel type
+[19:29:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:29:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:29:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:29:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:29:41] [Server thread/INFO]: Preparing level "world"
+[19:29:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:29:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:29:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:29:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:29:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:29:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:29:44] [Server thread/INFO]: Time elapsed: 2322 ms
+[19:29:44] [Server thread/INFO]: Done (2.872s)! For help, type "help"
+[19:30:44] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:32:19] [Server thread/INFO]: isafebrero[/172.30.35.230:51752] logged in with entity id 3 at (418.8015366392359, 244.0, 808.3305007273518)
+[19:32:19] [Server thread/INFO]: isafebrero joined the game
