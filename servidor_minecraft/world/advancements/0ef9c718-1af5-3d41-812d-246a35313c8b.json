@@ -4474,6 +4474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-01 20:53:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dried_ghast": {
     "criteria": {
       "has_ghast_tear": "2025-08-01 20:30:22 +0000"
@@ -4483,6 +4489,18 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-08-01 20:24:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-01 20:53:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-01 20:53:33 +0000"
     },
     "done": true
   },
