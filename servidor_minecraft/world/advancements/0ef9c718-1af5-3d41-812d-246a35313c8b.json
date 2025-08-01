@@ -4474,6 +4474,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-08-01 20:30:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-08-01 20:24:35 +0000"
