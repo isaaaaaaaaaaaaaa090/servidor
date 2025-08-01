@@ -27,3 +27,5 @@
 [02:21:44] [Server thread/INFO]: isafebrero joined the game
 [02:23:10] [Server thread/INFO]: isafebrero fell from a high place
 [03:15:40] [Server thread/INFO]: isafebrero experienced kinetic energy
+[03:36:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=442, y=243, z=802} jb{x=436, y=243, z=794}
+[03:37:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=427, y=243, z=793} jb{x=429, y=244, z=793}
