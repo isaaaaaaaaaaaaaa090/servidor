@@ -43,3 +43,6 @@
 [20:21:39] [Server thread/INFO]: isafebrero left the game
 [20:21:42] [Server thread/WARN]: sebas2011junio moved too quickly! -3.080289137068405,5.387330946298022,-17.27125152116747
 [20:24:35] [Server thread/INFO]: sebas2011junio has made the advancement [Local Brewery]
+[20:43:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=251, z=812} jb{x=22, y=60, z=-22}
+[20:43:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=251, z=812} jb{x=22, y=60, z=-22}
+[20:44:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-160, y=31, z=-222} jb{x=-167, y=32, z=-177}
