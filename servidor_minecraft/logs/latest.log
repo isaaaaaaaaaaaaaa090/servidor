@@ -27,3 +27,4 @@
 [03:55:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [03:56:44] [Server thread/INFO]: isafebrero[/172.30.35.230:49269] logged in with entity id 4 at (439.60644253380235, 244.0, 815.423869621991)
 [03:56:44] [Server thread/INFO]: isafebrero joined the game
+[04:13:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=440, y=243, z=796} jb{x=439, y=244, z=828}
