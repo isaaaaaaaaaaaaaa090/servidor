@@ -26,3 +26,8 @@
 [19:44:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=406, y=247, z=841} jb{x=393, y=247, z=834}
 [19:46:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=406, y=247, z=841} jb{x=394, y=250, z=794}
 [19:59:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=415, y=243, z=792} jb{x=382, y=253, z=822}
+[20:04:58] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[20:04:58] [Server thread/INFO]: isafebrero left the game
+[20:05:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[20:06:14] [Server thread/INFO]: sebas2011junio[/172.30.35.230:53887] logged in with entity id 9715 at (413.56049818877307, 128.0, 814.6999999880791)
+[20:06:14] [Server thread/INFO]: sebas2011junio joined the game
