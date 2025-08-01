@@ -37,3 +37,7 @@
 [04:56:46] [Server thread/INFO]: isafebrero discovered the floor was lava
 [05:12:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=411, y=128, z=806} jb{x=404, y=248, z=846}
 [05:19:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=400, y=249, z=793} jb{x=389, y=248, z=804}
+[05:30:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=401, y=243, z=819} jb{x=413, y=251, z=848}
+[05:34:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=428, y=252, z=786} jb{x=429, y=251, z=836}
+[05:34:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=428, y=252, z=786} jb{x=428, y=251, z=837}
+[05:35:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=425, y=252, z=839} jb{x=425, y=252, z=838}
