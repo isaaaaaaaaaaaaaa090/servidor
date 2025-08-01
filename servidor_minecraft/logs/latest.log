@@ -25,3 +25,4 @@
 [19:32:19] [Server thread/INFO]: isafebrero joined the game
 [19:44:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=406, y=247, z=841} jb{x=393, y=247, z=834}
 [19:46:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=406, y=247, z=841} jb{x=394, y=250, z=794}
+[19:59:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=415, y=243, z=792} jb{x=382, y=253, z=822}
