@@ -35,6 +35,7 @@
       "minecraft:dripstone_caves": "2025-07-11 18:36:54 +0000",
       "minecraft:frozen_peaks": "2025-07-05 20:07:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-11 19:00:10 +0000",
+      "minecraft:deep_dark": "2025-08-01 03:12:42 +0000",
       "minecraft:grove": "2025-07-05 20:07:23 +0000",
       "minecraft:swamp": "2025-07-24 02:02:35 +0000",
       "minecraft:meadow": "2025-07-05 20:23:45 +0000",
@@ -1166,6 +1167,7 @@
       "minecraft:ghast": "2025-07-07 19:42:45 +0000",
       "minecraft:hoglin": "2025-07-07 20:38:39 +0000",
       "minecraft:shulker": "2025-07-06 00:19:15 +0000",
+      "minecraft:cave_spider": "2025-08-01 03:13:04 +0000",
       "minecraft:piglin": "2025-07-07 20:38:02 +0000",
       "minecraft:enderman": "2025-07-05 20:45:24 +0000",
       "minecraft:magma_cube": "2025-07-05 20:41:22 +0000",
@@ -4526,9 +4528,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-01 03:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+    "criteria": {
+      "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2025-08-01 03:19:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-01 03:17:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2025-08-01 03:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-01 03:17:29 +0000"
     },
     "done": true
   },
