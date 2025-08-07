@@ -25,3 +25,6 @@
 [02:00:42] [Server thread/INFO]: isafebrero[/172.30.35.230:61077] logged in with entity id 2 at (168.69999998807907, -31.0, -157.0573841572389)
 [02:00:42] [Server thread/INFO]: isafebrero joined the game
 [02:03:18] [Server thread/INFO]: Villager cuf['Fisherman'/48, l='ServerLevel[bueno]', x=146.48, y=63.56, z=-203.51] died, message: 'Fisherman burned to death'
+[04:06:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=431, y=14, z=847} jb{x=430, y=14, z=847}
+[04:08:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=536, y=15, z=851} jb{x=535, y=15, z=849}
+[04:08:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=536, y=15, z=851} jb{x=535, y=15, z=849}
