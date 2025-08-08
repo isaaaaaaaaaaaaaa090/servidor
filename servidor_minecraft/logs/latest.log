@@ -1,76 +1,27 @@
-[13:34:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:34:33] [ServerMain/INFO]: Loaded 1407 recipes
-[13:34:33] [ServerMain/INFO]: Loaded 1520 advancements
-[13:34:33] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[13:34:33] [Server thread/INFO]: Loading properties
-[13:34:33] [Server thread/INFO]: Default game type: SURVIVAL
-[13:34:33] [Server thread/INFO]: Generating keypair
-[13:34:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:34:33] [Server thread/INFO]: Using epoll channel type
-[13:34:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:34:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:34:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:34:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:34:33] [Server thread/INFO]: Preparing level "world"
-[13:34:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:34:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:34:37] [Server thread/INFO]: Time elapsed: 3729 ms
-[13:34:37] [Server thread/INFO]: Done (4.238s)! For help, type "help"
-[13:35:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:39:09] [Server thread/INFO]: isafebrero[/172.30.35.230:56768] logged in with entity id 4 at (457.69999998807907, 14.0, 964.3000000119209)
-[13:39:09] [Server thread/INFO]: isafebrero joined the game
-[13:54:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=454, y=20, z=1102} jb{x=453, y=19, z=1102}
-[13:54:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=454, y=20, z=1102} jb{x=453, y=19, z=1102}
-[13:54:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=457, y=19, z=1104} jb{x=458, y=18, z=1104}
-[13:54:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=455, y=20, z=1105} jb{x=455, y=20, z=1106}
-[14:01:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=454, y=16, z=1252} jb{x=456, y=16, z=1256}
-[14:04:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=484, y=16, z=1296} jb{x=483, y=15, z=1296}
-[14:05:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=493, y=14, z=1295} jb{x=489, y=16, z=1295}
-[14:05:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=493, y=14, z=1295} jb{x=489, y=16, z=1295}
-[14:05:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=493, y=14, z=1295} jb{x=489, y=16, z=1295}
-[14:05:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=493, y=14, z=1295} jb{x=489, y=16, z=1295}
-[14:05:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=493, y=14, z=1295} jb{x=489, y=16, z=1295}
-[14:05:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=493, y=14, z=1295} jb{x=489, y=16, z=1295}
-[14:05:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=493, y=14, z=1295} jb{x=489, y=16, z=1295}
-[14:07:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=485, y=16, z=1103} jb{x=485, y=16, z=1102}
-[14:08:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=485, y=16, z=981} jb{x=485, y=15, z=980}
-[14:08:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=485, y=17, z=980} jb{x=485, y=16, z=979}
-[14:13:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=481, y=16, z=1093} jb{x=481, y=15, z=1095}
-[14:13:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=481, y=14, z=1102} jb{x=481, y=13, z=1101}
-[14:13:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=481, y=14, z=1102} jb{x=481, y=13, z=1101}
-[14:13:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=481, y=14, z=1102} jb{x=481, y=13, z=1101}
-[14:13:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=481, y=14, z=1105} jb{x=482, y=15, z=1103}
-[14:13:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=481, y=14, z=1105} jb{x=482, y=15, z=1103}
-[14:13:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=481, y=14, z=1105} jb{x=482, y=15, z=1103}
-[14:13:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=483, y=17, z=1107} jb{x=484, y=18, z=1107}
-[14:13:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=483, y=17, z=1107} jb{x=484, y=18, z=1107}
-[14:13:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=483, y=17, z=1107} jb{x=484, y=18, z=1107}
-[14:13:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=483, y=17, z=1107} jb{x=484, y=18, z=1107}
-[14:13:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=483, y=17, z=1107} jb{x=484, y=18, z=1107}
-[14:13:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=483, y=17, z=1107} jb{x=484, y=18, z=1107}
-[14:28:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=484, y=17, z=1088} jb{x=486, y=14, z=1088}
-[14:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=503, y=16, z=1088} jb{x=562, y=16, z=1088}
-[14:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=503, y=16, z=1088} jb{x=562, y=16, z=1088}
-[14:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=503, y=16, z=1088} jb{x=562, y=16, z=1088}
-[14:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=503, y=16, z=1088} jb{x=562, y=16, z=1088}
-[14:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=503, y=16, z=1088} jb{x=562, y=16, z=1088}
-[14:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=503, y=16, z=1088} jb{x=562, y=16, z=1088}
-[14:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=503, y=16, z=1088} jb{x=562, y=16, z=1088}
-[14:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=503, y=16, z=1088} jb{x=562, y=16, z=1088}
-[14:29:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=503, y=16, z=1088} jb{x=562, y=16, z=1088}
-[14:35:05] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=459, y=16, z=1056} jb{x=465, y=16, z=1056}
-[14:35:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=514, y=16, z=1056} jb{x=517, y=15, z=1056}
-[14:37:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=533, y=15, z=1027} jb{x=533, y=14, z=1028}
-[14:37:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=533, y=15, z=1027} jb{x=533, y=14, z=1028}
-[14:37:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=533, y=15, z=1027} jb{x=533, y=14, z=1028}
-[14:37:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=533, y=16, z=977} jb{x=533, y=15, z=976}
-[14:46:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=414, y=15, z=1016} jb{x=414, y=16, z=1015}
-[15:19:45] [Server thread/WARN]: isafebrero moved wrongly!
-[15:20:31] [Server thread/WARN]: isafebrero moved wrongly!
+[15:54:12] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:54:14] [ServerMain/INFO]: Loaded 1407 recipes
+[15:54:14] [ServerMain/INFO]: Loaded 1520 advancements
+[15:54:14] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[15:54:14] [Server thread/INFO]: Loading properties
+[15:54:14] [Server thread/INFO]: Default game type: SURVIVAL
+[15:54:14] [Server thread/INFO]: Generating keypair
+[15:54:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:54:14] [Server thread/INFO]: Using epoll channel type
+[15:54:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:54:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:54:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:54:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:54:14] [Server thread/INFO]: Preparing level "world"
+[15:54:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:54:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:54:19] [Server thread/INFO]: Time elapsed: 3879 ms
+[15:54:19] [Server thread/INFO]: Done (4.397s)! For help, type "help"
+[15:54:28] [Server thread/INFO]: isafebrero[/172.30.35.230:58920] logged in with entity id 4 at (99.14275134400633, 63.0, -181.92281305114426)
+[15:54:28] [Server thread/INFO]: isafebrero joined the game
