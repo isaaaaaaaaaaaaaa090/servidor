@@ -25,3 +25,7 @@
 [15:54:19] [Server thread/INFO]: Done (4.397s)! For help, type "help"
 [15:54:28] [Server thread/INFO]: isafebrero[/172.30.35.230:58920] logged in with entity id 4 at (99.14275134400633, 63.0, -181.92281305114426)
 [15:54:28] [Server thread/INFO]: isafebrero joined the game
+[16:43:52] [Server thread/WARN]: isafebrero moved too quickly! 17.78411266649198,-1.981488420461588,6.664931526553573
+[16:46:30] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[16:46:30] [Server thread/INFO]: isafebrero left the game
+[16:47:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
