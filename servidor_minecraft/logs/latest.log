@@ -29,3 +29,66 @@
 [16:46:30] [Server thread/INFO]: isafebrero lost connection: Disconnected
 [16:46:30] [Server thread/INFO]: isafebrero left the game
 [16:47:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[16:56:19] [Server thread/INFO]: isafebrero[/172.30.35.230:51806] logged in with entity id 22194 at (2519.816943914451, 66.1619234059834, 2559.054646972532)
+[16:56:19] [Server thread/INFO]: isafebrero joined the game
+[16:57:28] [Server thread/INFO]: isafebrero lost connection: Timed out
+[16:57:28] [Server thread/INFO]: isafebrero left the game
+[16:57:55] [Server thread/INFO]: isafebrero[/172.30.35.230:52079] logged in with entity id 24356 at (3328.710419298027, 114.08116676133017, 2571.4102965560937)
+[16:57:55] [Server thread/INFO]: isafebrero joined the game
+[17:00:40] [Server thread/WARN]: isafebrero moved too quickly! 8.312113520469211,-1.5228777270286429,-15.222814666220756
+[17:04:11] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[17:04:11] [Server thread/INFO]: isafebrero left the game
+[17:04:44] [Server thread/INFO]: isafebrero[/172.30.35.230:52969] logged in with entity id 32429 at (5934.300000011921, 93.0, 1438.6008505742384)
+[17:04:44] [Server thread/INFO]: isafebrero joined the game
+[17:07:16] [Server thread/WARN]: isafebrero moved too quickly! -16.501631071053453,-3.02557041379292,8.404995186359429
+[17:16:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4974, y=79, z=2302} jb{x=4974, y=78, z=2303}
+[17:16:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4959, y=79, z=2316} jb{x=4960, y=78, z=2316}
+[17:16:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4959, y=79, z=2316} jb{x=4960, y=78, z=2316}
+[17:16:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4959, y=79, z=2316} jb{x=4960, y=78, z=2316}
+[17:16:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4959, y=79, z=2316} jb{x=4960, y=78, z=2316}
+[17:16:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4959, y=79, z=2316} jb{x=4960, y=78, z=2316}
+[17:16:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4959, y=79, z=2316} jb{x=4960, y=78, z=2316}
+[17:19:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4986, y=79, z=2297} jb{x=4987, y=78, z=2297}
+[17:19:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4990, y=79, z=2294} jb{x=4990, y=77, z=2295}
+[17:19:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4990, y=79, z=2294} jb{x=4990, y=77, z=2295}
+[17:19:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4990, y=79, z=2294} jb{x=4990, y=77, z=2295}
+[17:19:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4990, y=79, z=2294} jb{x=4990, y=77, z=2295}
+[17:19:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4990, y=79, z=2294} jb{x=4990, y=77, z=2295}
+[17:19:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4989, y=79, z=2293} jb{x=4990, y=78, z=2295}
+[17:19:38] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4989, y=79, z=2293} jb{x=4990, y=78, z=2295}
+[17:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4992, y=79, z=2293} jb{x=4992, y=78, z=2294}
+[17:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4993, y=79, z=2293} jb{x=4992, y=78, z=2294}
+[17:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4993, y=79, z=2293} jb{x=4992, y=78, z=2294}
+[17:19:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4993, y=79, z=2293} jb{x=4992, y=78, z=2294}
+[17:20:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4998, y=81, z=2300} jb{x=4997, y=80, z=2300}
+[17:20:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4998, y=81, z=2300} jb{x=4997, y=80, z=2300}
+[17:20:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4998, y=81, z=2300} jb{x=4997, y=80, z=2300}
+[17:20:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4998, y=81, z=2300} jb{x=4997, y=80, z=2300}
+[17:20:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=83, z=2301} jb{x=4997, y=80, z=2300}
+[17:20:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=83, z=2302} jb{x=4997, y=80, z=2300}
+[17:20:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=83, z=2305} jb{x=4998, y=82, z=2306}
+[17:20:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=83, z=2305} jb{x=4998, y=82, z=2306}
+[17:20:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=82, z=2309} jb{x=4998, y=82, z=2309}
+[17:20:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=82, z=2309} jb{x=4998, y=82, z=2309}
+[17:20:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=82, z=2309} jb{x=4998, y=82, z=2309}
+[17:20:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=82, z=2309} jb{x=4998, y=82, z=2309}
+[17:20:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=82, z=2309} jb{x=4998, y=82, z=2309}
+[17:20:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=82, z=2309} jb{x=4998, y=82, z=2309}
+[17:20:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=82, z=2309} jb{x=4998, y=82, z=2309}
+[17:21:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4994, y=79, z=2291} jb{x=4993, y=77, z=2292}
+[17:21:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4994, y=79, z=2291} jb{x=4993, y=77, z=2292}
+[17:21:58] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4994, y=79, z=2291} jb{x=4994, y=77, z=2291}
+[17:23:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5001, y=79, z=2281} jb{x=5000, y=78, z=2281}
+[17:23:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5001, y=79, z=2281} jb{x=5000, y=78, z=2281}
+[17:23:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5001, y=79, z=2281} jb{x=5000, y=78, z=2281}
+[17:23:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5001, y=79, z=2281} jb{x=5000, y=78, z=2281}
+[17:23:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5001, y=79, z=2281} jb{x=5000, y=78, z=2281}
+[17:23:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5001, y=79, z=2281} jb{x=5000, y=78, z=2281}
+[17:23:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5002, y=80, z=2278} jb{x=5003, y=78, z=2278}
+[17:23:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5002, y=80, z=2278} jb{x=5003, y=78, z=2278}
+[17:23:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5002, y=80, z=2278} jb{x=5003, y=78, z=2278}
+[17:23:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5002, y=80, z=2278} jb{x=5003, y=78, z=2278}
+[17:23:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5002, y=80, z=2278} jb{x=5003, y=78, z=2278}
+[17:23:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=5001, y=81, z=2277} jb{x=5003, y=78, z=2278}
+[17:23:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4999, y=80, z=2278} jb{x=4998, y=78, z=2277}
+[17:23:25] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=4997, y=81, z=2277} jb{x=4998, y=78, z=2278}
