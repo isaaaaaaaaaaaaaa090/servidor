@@ -1,34 +1,27 @@
-[00:42:32] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:42:34] [ServerMain/INFO]: Loaded 1407 recipes
-[00:42:34] [ServerMain/INFO]: Loaded 1520 advancements
-[00:42:34] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[00:42:34] [Server thread/INFO]: Loading properties
-[00:42:34] [Server thread/INFO]: Default game type: SURVIVAL
-[00:42:34] [Server thread/INFO]: Generating keypair
-[00:42:34] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:42:34] [Server thread/INFO]: Using epoll channel type
-[00:42:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:42:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:42:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:42:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:42:34] [Server thread/INFO]: Preparing level "world"
-[00:42:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:42:37] [Server thread/INFO]: Time elapsed: 2800 ms
-[00:42:37] [Server thread/INFO]: Done (3.265s)! For help, type "help"
-[00:43:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[00:44:59] [Server thread/INFO]: isafebrero[/172.30.35.230:55849] logged in with entity id 4 at (147.75200976981668, 63.5, -162.8160277629572)
-[00:44:59] [Server thread/INFO]: isafebrero joined the game
-[00:49:14] [Server thread/INFO]: isafebrero lost connection: Timed out
-[00:49:14] [Server thread/INFO]: isafebrero left the game
-[00:49:29] [Server thread/INFO]: isafebrero[/172.30.35.230:56187] logged in with entity id 825 at (149.20096119544021, 62.9375, -160.3824742505542)
-[00:49:29] [Server thread/INFO]: isafebrero joined the game
-[01:53:39] [Server thread/INFO]: isafebrero lost connection: Disconnected
-[01:53:39] [Server thread/INFO]: isafebrero left the game
-[01:53:46] [Server thread/INFO]: isafebrero[/172.30.35.230:60211] logged in with entity id 27113 at (97.3182378945542, 62.0, -186.30000001192093)
-[01:53:46] [Server thread/INFO]: isafebrero joined the game
+[19:11:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:11:12] [ServerMain/INFO]: Loaded 1407 recipes
+[19:11:12] [ServerMain/INFO]: Loaded 1520 advancements
+[19:11:12] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:11:12] [Server thread/INFO]: Loading properties
+[19:11:12] [Server thread/INFO]: Default game type: SURVIVAL
+[19:11:12] [Server thread/INFO]: Generating keypair
+[19:11:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:11:12] [Server thread/INFO]: Using epoll channel type
+[19:11:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:11:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:11:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:11:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:11:12] [Server thread/INFO]: Preparing level "world"
+[19:11:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:11:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:11:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:11:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:11:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:11:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:11:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:11:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:11:16] [Server thread/INFO]: Time elapsed: 3433 ms
+[19:11:16] [Server thread/INFO]: Done (3.821s)! For help, type "help"
+[19:12:16] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:12:54] [Server thread/INFO]: isafebrero[/172.30.35.230:51663] logged in with entity id 3 at (149.10421472424906, 63.0, -171.76249998807907)
+[19:12:54] [Server thread/INFO]: isafebrero joined the game
