@@ -29,3 +29,7 @@
 [20:25:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-108, y=61, z=-137} jb{x=-108, y=60, z=-136}
 [20:25:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-108, y=61, z=-137} jb{x=-108, y=60, z=-136}
 [20:38:15] [Server thread/WARN]: isafebrero moved wrongly!
+[20:49:48] [Server thread/INFO]: isafebrero lost connection: Disconnected
+[20:49:48] [Server thread/INFO]: isafebrero left the game
+[20:49:55] [Server thread/INFO]: isafebrero[/172.30.35.230:57569] logged in with entity id 56445 at (-106.26246312566417, 9.0, -137.61141904411167)
+[20:49:55] [Server thread/INFO]: isafebrero joined the game
